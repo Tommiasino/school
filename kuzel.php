@@ -1,5 +1,6 @@
 <?php
-namespace SkolaVDF\Matematika\Telesa
+namespace SkolaVDF\Matematika\Telesa;
+
 class kuzel implements ITeleso{
     public $r;
     public $v;
