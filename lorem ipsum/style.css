@@ -1,0 +1,15 @@
+.main{
+}
+
+.back{
+    width: 800px;
+    background-color: lightblue;
+    padding: 50px;
+    border-radius: 5%;
+}
+
+.p{
+    text-align: center;
+    font-size: 40px;
+    
+}
